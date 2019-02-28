@@ -15,6 +15,7 @@ e. Pilih “Clear Browsing Data”
 CARA CEPAT = Tekan (Ctrl + Shift + Del)
  
 3. Berikan contoh kode dari pembuatan dan menghapus cookies dan session!
+
 Membuat cookies :
  <?php  
 // Men-set nilai cookie
